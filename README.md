@@ -48,3 +48,14 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## TELA INICIAL
+![image](https://github.com/user-attachments/assets/11a28d84-85fb-4ce5-b356-13e618b3e5e2)
+
+## TELA SECUNDÁRIA
+![image](https://github.com/user-attachments/assets/044b2988-b7ad-4485-a354-874f06d93953)
+
+## TELA ALERTA
+![image](https://github.com/user-attachments/assets/beae7f3d-4a95-43ef-86f0-33eaffc2e62a)
+
+
